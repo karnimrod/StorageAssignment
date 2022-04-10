@@ -15,3 +15,7 @@
 
 ``public boolean insertRectangleObject(RectangleObject rectangleObject)``
 
+![](C:\Users\nimrodk\IdeaProjects\StorageAssignment\Slide1.JPG)
+![](C:\Users\nimrodk\IdeaProjects\StorageAssignment\Slide2.JPG)
+![](C:\Users\nimrodk\IdeaProjects\StorageAssignment\Slide3.JPG)
+![](C:\Users\nimrodk\IdeaProjects\StorageAssignment\Slide4.JPG)
